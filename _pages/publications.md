@@ -14,6 +14,5 @@ Preprint
 **Yuxuan Jiang**, Dawei Li, Francis Ferraro
   
 * From generation to judgment: Opportunities and challenges of llm-as-a-judge<br />
-
 Dawei Li, Bohan Jiang, Liangjie Huang, Alimohammad Beigi, Chengshuai Zhao, Zhen Tan, Amrita Bhattacharjee, **Yuxuan Jiang**, Canyu Chen, Tianhao Wu, Kai Shu, Lu Cheng, Huan Liu
 
