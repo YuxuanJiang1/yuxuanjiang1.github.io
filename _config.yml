@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yuxuan Jiang"
 title_separator          : "-"
 name                     : &name "Yuxuan Jiang"
-description              : &description "First year Ph.D student in University of Maryland at Baltimore"
+description              : &description "Third year Ph.D student in University of Maryland at Baltimore"
 url                      : https://yuxuanjiang1.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yuxuanjiang1/.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Yuxuan Jiang"
   avatar           : "profile.jpg"
-  bio              : "Second-year Master student at New York University"
-  location         : "New York"
+  bio              : "Thrid-year PhD student at UMBC"
+  location         : "Maryland"
   employer         :
 
-  email            :  "yj2199@nyu.edu"
+  email            :  "yuxuanj1@umbc.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,6 +102,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :  "https://www.linkedin.com/in/yuxuan-jiang-6aa201213/"
+  googlescholar    :"https://scholar.google.com/citations?hl=zh-CN&authuser=2&user=Zlj3hJUAAAAJ"
 
   pinterest        :
   soundcloud       :
