@@ -8,7 +8,7 @@ author_profile: true
 2025
 ======
 * From generation to judgment: Opportunities and challenges of llm-as-a-judge<br />
-Dawei Li, Bohan Jiang, Liangjie Huang, Alimohammad Beigi, Chengshuai Zhao, Zhen Tan, Amrita Bhattacharjee, **Yuxuan Jiang**, Canyu Chen, Tianhao Wu, Kai Shu, Lu Cheng, Huan Liu **EMNLP 2025**
+Dawei Li, Bohan Jiang, Liangjie Huang, Alimohammad Beigi, Chengshuai Zhao, Zhen Tan, Amrita Bhattacharjee, **Yuxuan Jiang**, Canyu Chen, Tianhao Wu, Kai Shu, Lu Cheng, Huan Liu.  **EMNLP 2025**
 
 Preprint
 ======
