@@ -28,8 +28,8 @@ notes_newsletter: true
 Yuxuan Jiang is a Computer Science PhD student under [Dr. Francis Ferraro](https://www.csee.umbc.edu/people/faculty/frank-ferraro/) at the University of Maryland, Baltimore County (UMBC).  
 His research centers on **tool-integrated reasoning**, **LLM Memorization**, and **efficient large language models**.
 
-He explores how structured reasoning patterns—what he calls *Tool Cards*—can improve LLMs’ ability to solve math and logic problems efficiently.  
-His ongoing projects include building large-scale reasoning benchmarks, designing template-guided fine-tuning pipelines, and studying how reasoning efficiency relates to model memory and inference balance.
+ 
+His ongoing projects include building large-scale reasoning benchmarks and studying how reasoning efficiency relates to model memory and inference balance.
 
 Previously, Yuxuan earned his M.S. in Computer Science from **New York University** and B.A. in Information Systems from **Beijing Language and Culture University**.  
 He also interned at **Xiaomi**, where he worked on large-scale dialogue systems and commonsense reasoning integration, and at the **National Language Resource Monitoring Center**, where he led semantic role labeling and input-correction research.
