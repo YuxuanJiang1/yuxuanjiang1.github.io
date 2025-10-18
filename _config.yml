@@ -3,17 +3,17 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Shubhashis
+first_name: Yuxuan
 middle_name:
-last_name: Roy Dipta
-email: sroydip1@umbc.edu
+last_name: Jiang
+email: yuxuanj1@umbc.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Personal site of Shubhashis Roy Dipta
 # footer_text: >
 #   # Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 #   # Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 #   # Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: shubhashis-roy-dipta, shubhashis-roy, dipta, roy-dipta, shubhashis-dipta, dipta007
+keywords: yuxuan jiang
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🏠  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -68,17 +68,17 @@ og_image: /assets/img/social_preview.png # The site-wide (default for all links)
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: dipta007 # your GitHub user name
+github_username: YuxuanJiang1 # your GitHub user name
 gitlab_username: # your GitLab user name
-twitter_username: iamdipta007 # your Twitter handle
+twitter_username: # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: dipta007 # your LinkedIn user name
+linkedin_username: yuxuan-jiang-6aa201213 # your LinkedIn user name
 telegram_username: # your Telegram user name
-scholar_userid: j2ElsNIAAAAJ # your Google Scholar ID
+scholar_userid: Zlj3hJUAAAAJ # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
-whatsapp_number: +14438893961 # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-# orcid_id: 0000-0002-9176-1782 # your ORCID ID
-# medium_username: dipta007 # your Medium username
+whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
+# orcid_id: # your ORCID ID
+# medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
 lattes_id: # your ID on Lattes (Brazilian Lattes CV)
@@ -97,9 +97,9 @@ lastfm_id: # your lastfm id
 spotify_id: # your spotify id
 pinterest_id: # your pinterest id
 unsplash_id: # your unsplash id
-# instagram_id: iamdipta007 # your instagram id
-# facebook_id: iamdipta007 # your facebook id
-youtube_id: roydipta # your youtube channel id (youtube.com/@<youtube_id>)
+# instagram_id: # your instagram id
+# facebook_id: # your facebook id
+youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
 zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
@@ -113,7 +113,7 @@ contact_note: >
 
 # For Google Analytics, see https://support.google.com/analytics/answer/10447272?hl=en&ref_topic=14088998&sjid=5129943941510317771-SA#zippy=%2Cgoogle-sites
 # and follow the instructions for Google Sites. You will need to create a Google Analytics property and copy the Google tag ID.
-google_analytics: G-YM80KFF174  # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
+google_analytics: # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
 cronitor_analytics:  # cronitor RUM analytics site ID (format: XXXXXXXXX)
 
 google_site_verification: # your google-site-verification ID (Google Search Console)
@@ -123,9 +123,9 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Shubhashis Roy Dipta Blog # blog_name will be displayed in your blog page
+blog_name: # blog_name will be displayed in your blog page
 blog_nav_title: null # your blog must have a title for it to be displayed in the nav bar
-blog_description: Learn with Shubhashis
+blog_description: 
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -140,10 +140,10 @@ related_blog_posts:
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out
 # the information below.
 giscus:
-  repo: dipta007/giscus-srd                         # <your-github-user-name>/<your-github-repo-name>
-  repo_id: R_kgDOLHLfzw
-  category: roydipta.com             # name of the category under which discussions will be created
-  category_id: DIC_kwDOLHLfz84Ccjdz
+  repo:                          # <your-github-user-name>/<your-github-repo-name>
+  repo_id: 
+  category:              # name of the category under which discussions will be created
+  category_id: 
   mapping: url                 # identify discussions by post title
   strict: 0                      # use strict identification mode
   reactions_enabled: 1           # enable (1) or disable (0) emoji reactions
@@ -160,8 +160,8 @@ disqus_shortname: al-folio # put your disqus shortname
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@dipta007/feed
+  - name:
+    rss_url: 
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -287,8 +287,8 @@ display_categories: ['blockquotes'] # these categories will be displayed on the 
 
 scholar:
 
-  last_name: [Roy Dipta, Dipta, R. Dipta, Roy, R.]
-  first_name: [Shubhashis, Shubhashis Roy, Shubhashis Roy Dipta, Shubhashis R. Dipta, Shubhashis Roy Dipta, Shubhashis R. Dipta, Shubhashis Roy, Shubhashis R.]
+  last_name: [Jiang]
+  first_name: [Yuxuan]
 
   style: apa
   locale: en
