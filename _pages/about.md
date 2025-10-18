@@ -4,7 +4,7 @@ width: 1500px
 title: About
 permalink: /
 subtitle: >
-  <b>PhD Student</b> ⎟ <b>LLMs & Tool-Augmented Reasoning</b> ⎟ <b>NLP, Cognitive Modeling</b>
+  <b>PhD Student</b> ⎟ <b>LLMs & Tool-Integrated Reasoning</b> ⎟ <b>NLP, LLM Reasoning</b>
 
 profile:
   align: right
@@ -18,7 +18,7 @@ latest_posts: false
 selected_papers: true
 social: true
 announcement: >
-  I am currently open to <b>research collaborations</b> in large language models, reasoning efficiency, and multimodal understanding.  
+  I am currently open to <b>research collaborations</b> in large language models reasoning.  
   Please <a href="mailto:yuxuanj1@umbc.edu" target="_blank">email me</a> if you’d like to discuss a project.
 
 blog_newsletter: false
@@ -26,7 +26,7 @@ notes_newsletter: true
 ---
 
 Yuxuan Jiang is a Computer Science PhD student under [Dr. Francis Ferraro](https://www.csee.umbc.edu/people/faculty/frank-ferraro/) at the University of Maryland, Baltimore County (UMBC).  
-His research centers on **tool-augmented reasoning**, **meta-reasoning templates**, and **distillation for efficient large language models**.
+His research centers on **tool-integrated reasoning**, **LLM Memorization**, and **efficient large language models**.
 
 He explores how structured reasoning patterns—what he calls *Tool Cards*—can improve LLMs’ ability to solve math and logic problems efficiently.  
 His ongoing projects include building large-scale reasoning benchmarks, designing template-guided fine-tuning pipelines, and studying how reasoning efficiency relates to model memory and inference balance.
@@ -38,12 +38,11 @@ He has authored several papers on large language model reasoning and evaluation,
 
 {% include announcement.html %}
 
-Yuxuan has a strong background in **deep learning**, **natural language processing**, and **statistical analysis**, with experience in PyTorch, Hugging Face, TensorFlow, and cloud deployment (AWS / GCP).  
+Yuxuan has a strong background in **deep learning**, **natural language processing**, with experience in PyTorch, Hugging Face, TensorFlow, and cloud deployment (AWS / GCP).  
 He has also been recognized for his contributions to research on *reasoning efficiency*, *skill-aware step pruning*, and *distilled reasoning models* in recent ACL and EMNLP submissions.
 
 ## Research Interests
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ Tool-Augmented Reasoning  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ Reasoning Template Distillation  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ Large Language Models  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ Cognitive and Multimodal Understanding  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ Tool-Integrated Reasoning  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ Large Language Models Reasoning 
+
