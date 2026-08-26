@@ -22,6 +22,10 @@
   url: https://arxiv.org/
   color: "#B31B1B"
 
+"NeurIPS Workshop":
+  url: https://neurips.cc/virtual/2025/workshop/109565
+  color: "#4B2E83"
+
 "NAACL":
   url: https://naacl.org/
   color: "#428bca"
