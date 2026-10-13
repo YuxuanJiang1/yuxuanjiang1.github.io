@@ -4,7 +4,7 @@ width: 1500px
 title: About
 permalink: /
 subtitle: >
-  <b>PhD Student</b> ⎟ <b>LLMs & Tool-Integrated Reasoning</b> ⎟ <b>NLP, LLM Reasoning</b>
+  <b>Ph.D. Student</b> ⎟ <b>LLM Post-Training & Reasoning</b> ⎟ <b>Recursive Self-Improvement</b>
 
 profile:
   align: right
@@ -18,31 +18,27 @@ latest_posts: false
 selected_papers: true
 social: true
 announcement: >
-  I am currently open to <b>research collaborations</b> in large language models reasoning.  
-  Please <a href="mailto:yuxuanj1@umbc.edu" target="_blank">email me</a> if you’d like to discuss a project.
+  I am seeking <b>full-time AI research opportunities starting after my expected graduation in May 2027</b> and welcome research collaborations in LLM post-training, reasoning, and self-improving agents.
+  Please <a href="mailto:yuxuanj1@umbc.edu">email me</a> to connect.
 
 blog_newsletter: false
 notes_newsletter: true
 ---
 
-Yuxuan Jiang is a Computer Science PhD student under [Dr. Francis Ferraro](https://www.csee.umbc.edu/people/faculty/frank-ferraro/) at the University of Maryland, Baltimore County (UMBC).  
-His research centers on **tool-integrated reasoning**, **LLM Memorization**, and **efficient large language models**.
+I am a final-year Computer Science Ph.D. student at the **University of Maryland, Baltimore County (UMBC)**, advised by [Prof. Francis Ferraro](https://www.csee.umbc.edu/people/faculty/frank-ferraro/), with expected graduation in **May 2027**. My research focuses on **LLM post-training, reasoning, and recursive self-improvement**.
 
- 
-His ongoing projects include building large-scale reasoning benchmarks and studying how reasoning efficiency relates to model memory and inference balance.
+I study how models learn from rewards, teacher guidance, and execution feedback. My work includes reusable process rewards for reasoning and tool use ([SCRIBE](https://arxiv.org/abs/2601.03555)), trajectory-aware on-policy distillation ([TOPD](https://arxiv.org/abs/2606.00305)), and understanding persistent teacher–student mismatches ([Rock Tokens](https://arxiv.org/abs/2605.09253)). I also study efficient reasoning through [skill-aware step pruning](https://arxiv.org/abs/2505.13975).
 
-Previously, Yuxuan earned his M.S. in Computer Science from **New York University** and B.A. in Information Systems from **Beijing Language and Culture University**.  
-He also interned at **Xiaomi**, where he worked on large-scale dialogue systems and commonsense reasoning integration, and at the **National Language Resource Monitoring Center**, where he led semantic role labeling and input-correction research.
+During my **research internship at Emergence AI (May–August 2026)**, I developed [SO-RSI](https://arxiv.org/abs/2610.05701), a framework that investigates recurring failures before changing an agent's workflow. On Lean 4 theorem proving and Verus code generation, it improved held-out pass rates over Naive RSI by **21.8 and 25.8 percentage points**, respectively, under matched 24-hour optimization budgets.
 
-He has authored several papers on large language model reasoning and evaluation, including works on memorization mitigation and reasoning-step compression.
+My research combines method development and controlled experiments with hands-on training systems using **PyTorch, FSDP2, SGLang, and Ray**. My first-author work includes publications at **NeurIPS 2026, EMNLP 2026 Main, ACL 2026 Findings, and EACL 2026 (Oral)**.
+
+Previously, I earned an M.S. in Computer Science from **New York University** and a B.S. in Information Systems from **Beijing Language and Culture University**.
 
 {% include announcement.html %}
 
-Yuxuan has a strong background in **deep learning**, **natural language processing**, with experience in PyTorch, Hugging Face, TensorFlow, and cloud deployment (AWS / GCP).  
-He has also been recognized for his contributions to research on *reasoning efficiency*, *skill-aware step pruning*, and *distilled reasoning models* in recent ACL and EMNLP submissions.
-
 ## Research Interests
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ Tool-Integrated Reasoning  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ Large Language Models Reasoning 
-
+- **Post-training and reasoning:** reinforcement learning, process rewards, on-policy distillation, and reasoning efficiency.
+- **Self-improving agents:** evidence-guided workflow optimization, failure diagnosis, and research automation.
+- **Evaluation and verification:** tool use, formal verification, and reliable measurements of model behavior.

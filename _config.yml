@@ -8,12 +8,12 @@ middle_name:
 last_name: Jiang
 email: yuxuanj1@umbc.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Personal site of Yuxuan Jiang
+  Yuxuan Jiang is a Computer Science Ph.D. student at UMBC researching LLM post-training, reasoning, and recursive self-improvement. Expected graduation: May 2027.
 # footer_text: >
 #   # Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 #   # Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 #   # Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: yuxuan jiang
+keywords: Yuxuan Jiang, LLM post-training, reinforcement learning, reasoning, recursive self-improvement
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🏠  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -105,7 +105,7 @@ zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
 contact_note: >
-  Best way to contact me is to <a href="mailto:sroydip1@umbc.edu">email</a>. I try te reply each and every email.
+  For research opportunities and collaborations, <a href="mailto:yuxuanj1@umbc.edu">email me</a>.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification

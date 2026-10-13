@@ -6,7 +6,7 @@
     "email": "yuxuanj1@umbc.edu",
     "phone": "+1-551-998-5415",
     "url": "https://yuxuanjiang1.github.io",
-    "summary": "Ph.D. student in Computer Science at UMBC. Research focus: Large Language Models, Tool-Augmented Reasoning, and NLP efficiency.",
+    "summary": "Final-year Computer Science Ph.D. student at UMBC researching LLM post-training, reasoning, and recursive self-improvement. Expected graduation: May 2027.",
     "location": {
       "address": "",
       "postalCode": "MD",
@@ -17,6 +17,16 @@
     "profiles": []
   },
   "work": [
+    {
+      "name": "Emergence AI",
+      "position": "Research Intern",
+      "startDate": "2026-05",
+      "endDate": "2026-08",
+      "summary": "Developed SO-RSI for evidence-guided recursive self-improvement in Lean 4 theorem proving and Verus code generation.",
+      "highlights": [
+        "Improved held-out pass rates by 21.8 percentage points on Lean 4 and 25.8 points on Verus over Naive RSI under matched 24-hour optimization budgets."
+      ]
+    },
     {
       "name": "Xiaomi",
       "position": "Machine Learning Engineer Intern",
@@ -58,7 +68,8 @@
       "courses": [],
       "highlights": [
         "Advisor: Prof. Francis Ferraro",
-        "Research Focus: Large Language Models, Tool-Augmented Reasoning, NLP Efficiency"
+        "Expected graduation: May 2027",
+        "Research: LLM post-training, reasoning, and recursive self-improvement"
       ]
     },
     {
@@ -84,6 +95,48 @@
   ],
   "publications": [
     {
+      "name": "Second-Order Problem Solving for Recursive Self-Improvement in Formal Verification",
+      "publisher": "arXiv preprint",
+      "releaseDate": "2026",
+      "url": "https://arxiv.org/abs/2610.05701",
+      "summary": ""
+    },
+    {
+      "name": "Bridging Reasoning Trajectories in On-Policy Distillation via Near-Future Guidance",
+      "publisher": "arXiv preprint",
+      "releaseDate": "2026",
+      "url": "https://arxiv.org/abs/2606.00305",
+      "summary": ""
+    },
+    {
+      "name": "Cornerstones or Stumbling Blocks? Deciphering the Rock Tokens in On-Policy Distillation",
+      "publisher": "NeurIPS 2026",
+      "releaseDate": "2026",
+      "url": "https://arxiv.org/abs/2605.09253",
+      "summary": ""
+    },
+    {
+      "name": "SCRIBE: Structured Mid-Level Supervision for Tool-Using Language Models",
+      "publisher": "EMNLP 2026 Main",
+      "releaseDate": "2026",
+      "url": "https://arxiv.org/abs/2601.03555",
+      "summary": ""
+    },
+    {
+      "name": "DRP: Distilled Reasoning Pruning with Skill-aware Step Decomposition for Efficient Large Reasoning Models",
+      "publisher": "ACL 2026 Findings",
+      "releaseDate": "2026",
+      "url": "https://arxiv.org/abs/2505.13975",
+      "summary": ""
+    },
+    {
+      "name": "Beyond Math: Stories as a Testbed for Memorization-Constrained Reasoning in LLMs",
+      "publisher": "EACL 2026 (Oral)",
+      "releaseDate": "2026",
+      "url": "https://aclanthology.org/2026.eacl-long.261/",
+      "summary": ""
+    },
+    {
       "name": "From Generation to Judgment: Opportunities and Challenges of LLM-as-a-Judge",
       "publisher": "EMNLP 2025 (Main Conference)",
       "releaseDate": "2025",
@@ -91,22 +144,8 @@
       "summary": ""
     },
     {
-      "name": "Memorization Over Reasoning? Exposing and Mitigating Verbatim Memorization in Large Language Models’ Character Understanding Evaluation",
-      "publisher": "Under review at ACL 2026 (arXiv)",
-      "releaseDate": "2026",
-      "url": "",
-      "summary": ""
-    },
-    {
-      "name": "DRP: Distilled Reasoning Pruning with Skill-aware Step Decomposition for Efficient Large Reasoning Models",
-      "publisher": "Under review at ACL 2026 (arXiv)",
-      "releaseDate": "2026",
-      "url": "",
-      "summary": ""
-    },
-    {
       "name": "Learning How to Use Tools, Not Just When: Pattern-Aware Tool-Integrated Reasoning",
-      "publisher": "Under review at EACL 2025 (arXiv)",
+      "publisher": "NeurIPS 2025 Workshop on Math-AI",
       "releaseDate": "2025",
       "url": "",
       "summary": ""
@@ -115,15 +154,32 @@
   "skills": [
     {
       "name": "Programming",
-      "keywords": ["Python", "C++", "SQL"]
+      "keywords": [
+        "Python",
+        "C++",
+        "SQL"
+      ]
     },
     {
       "name": "Frameworks",
-      "keywords": ["PyTorch", "Hugging Face Transformers", "TensorFlow"]
+      "keywords": [
+        "PyTorch",
+        "Hugging Face",
+        "FSDP2",
+        "SGLang",
+        "vLLM",
+        "Ray"
+      ]
     },
     {
       "name": "Tools",
-      "keywords": ["GCP", "AWS", "Docker", "Git", "Linux"]
+      "keywords": [
+        "GCP",
+        "AWS",
+        "Docker",
+        "Git",
+        "Linux"
+      ]
     }
   ],
   "languages": [],
