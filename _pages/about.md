@@ -31,7 +31,7 @@ I study how models learn from rewards, teacher guidance, and execution feedback.
 
 During my **research internship at Emergence AI (May–August 2026)**, I developed [SO-RSI](https://arxiv.org/abs/2610.05701), a framework that investigates recurring failures before changing an agent's workflow. On Lean 4 theorem proving and Verus code generation, it improved held-out pass rates over Naive RSI by **21.8 and 25.8 percentage points**, respectively, under matched 24-hour optimization budgets.
 
-My research combines method development and controlled experiments with hands-on training systems using **PyTorch, FSDP2, SGLang, and Ray**. My first-author work includes publications at **NeurIPS 2026, EMNLP 2026 Main, ACL 2026 Findings, and EACL 2026 (Oral)**.
+My research combines method development and controlled experiments with hands-on training systems using **PyTorch, FSDP2, SGLang, and Ray**. My first-author work includes publications at **NeurIPS 2026, EMNLP 2026, ACL 2026, and EACL 2026 (Oral)**.
 
 Previously, I earned an M.S. in Computer Science from **New York University** and a B.S. in Information Systems from **Beijing Language and Culture University**.
 
